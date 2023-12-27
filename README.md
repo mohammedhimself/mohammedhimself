@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mohammedhimself
+- 👋 Hi, I’m Mamman Mohammed 
 - 👀 I’m interested in buiding new things 
-- 🌱 I’m currently learning web penetration testing 
-- 💞️ I’m looking to collaborate on python projects
+- 🌱 I’m currently the tech space 
+- 💞️ I’m looking to collaborate on  projects
 - 📫 How to reach me mammanm92@gmail.com
 
 <!---
